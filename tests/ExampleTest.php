@@ -1,6 +1,6 @@
 <?php
 
-namespace VendorName\Skeleton\Tests;
+namespace Emilianotisato\LivewireForms\Tests;
 
 class ExampleTest extends TestCase
 {

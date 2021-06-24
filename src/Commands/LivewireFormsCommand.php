@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Emilianotisato\LivewireForms\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LivewireFormsCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-livewire-forms';
 
     public $description = 'My command';
 
