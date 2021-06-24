@@ -2,9 +2,9 @@
 
 namespace Emilianotisato\LivewireForms;
 
+use Emilianotisato\LivewireForms\Commands\LivewireFormsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Emilianotisato\LivewireForms\Commands\LivewireFormsCommand;
 
 class LivewireFormsServiceProvider extends PackageServiceProvider
 {

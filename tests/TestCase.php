@@ -2,9 +2,9 @@
 
 namespace Emilianotisato\LivewireForms\Tests;
 
+use Emilianotisato\LivewireForms\LivewireFormsServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Emilianotisato\LivewireForms\LivewireFormsServiceProvider;
 
 class TestCase extends Orchestra
 {
